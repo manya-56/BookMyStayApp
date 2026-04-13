@@ -1,7 +1,6 @@
 *.class
 .idea/
-bin/
+*.iml
 out/
-target/
+bin/
 *.dat
-
