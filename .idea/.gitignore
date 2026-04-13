@@ -1,6 +1,7 @@
 *.class
+.idea/
 bin/
 out/
 target/
-.idea/
 *.dat
+
